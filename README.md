@@ -31,9 +31,9 @@ python election_scraper.py "https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xk
 
 ### Průběh programu v konzoli:
 ```sh
-Downloading data from selected URL: https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=14&xnumnuts=8103
-Saving data to file: vysledky_karvina.csv
-All done, closing...
+Stahuji data z vybraného URL: https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=14&xnumnuts=8103
+Ukládám data do souboru: vysledky_karvina.csv
+Vše hotovo, zavírám...
 ```
 
 ## Částečný výstup CSV
